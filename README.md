@@ -18,16 +18,17 @@
 ###
 
 
-## 👋 Olá! Seja bem-vindo ao meu perfil do GitHub!
-- Eu me chamo Daniel Rodrigues e sou desenvolvedor Back-end! 🇧🇷
-
+##  Olá! Sou o Daniel Rodrigues!🙋🏻‍♂️
+ - Estudante de Engenharia de Software na UniRitter, tenho como objetivo transformar ideias em soluções tecnológicas que realmente façam a diferença na vida das pessoas.
+ Estou em constante evolução, sempre explorando novos conhecimentos, aperfeiçoando minhas habilidades em programação e acompanhando de perto as transformações do universo tech.
+  
 <h2 align="left">Sobre mim</h2>
 
 
 ###
 
 
-<p align="left">📚- Cursando Engenharia de Software<br>💻- Desenvolvedor Back-end<br>☕- Atualmente estudando Java</p>
+<p align="left">📚- Cursando Engenharia de Software<br>💻- Desenvolvedor Back-end<br>☕- Atualmente estudando Java<br>🎮- Tenho como hobbies estudar programação, jogar e assistir séries
 
 ###
 
