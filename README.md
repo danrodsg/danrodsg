@@ -18,7 +18,7 @@
 ###
 
 
-## 👋 Olá! Eu bem-vindo ao meu perfil do GitHub!
+## 👋 Olá! Seja bem-vindo ao meu perfil do GitHub!
 - Eu me chamo Daniel Rodrigues e sou desenvolvedor Back-end! 🇧🇷
 
 <h2 align="left">Sobre mim</h2>
