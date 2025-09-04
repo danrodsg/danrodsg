@@ -30,7 +30,7 @@
 ###
 
 
-<p align="left">📚- Cursando Engenharia de Software<br>💻- Desenvolvedor Back-end<br>☕- Atualmente estudando Java<br>🎮- Tenho como hobbies estudar programação, jogar e assistir séries
+<p align="left">📚- Cursando Engenharia de Software<br>💻- Desenvolvedor Back-end<br>☕- Atualmente estudando Golang<br>🎮- Tenho como hobbies estudar programação, jogar e assistir séries
 
 ###
 
