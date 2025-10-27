@@ -21,8 +21,7 @@
 
 
 ##  Olá! Sou o Daniel Rodrigues!🙋🏻‍♂️
- - Estudante de Engenharia de Software na UniRitter, tenho como objetivo transformar ideias em soluções tecnológicas que realmente façam a diferença na vida das pessoas.
- Estou em constante evolução, sempre explorando novos conhecimentos, aperfeiçoando minhas habilidades em programação e acompanhando de perto as transformações do universo tech.
+ - Sou estudante de Engenharia de Software na UniRitter e adoro transformar ideias em soluções que realmente facilitem o dia a dia das pessoas. Estou sempre em busca de aprender mais, melhorar minhas habilidades em programação e acompanhar tudo o que há de novo no mundo da tecnologia. Acredito que cada projeto é uma chance de evoluir e fazer a diferença de forma criativa e inovadora.
   
 <h2 align="left">Sobre mim</h2>
 
