@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">Tech</h2>
+<h2 align="left">Linguagens/Frameworks</h2>
 
 ###
 
