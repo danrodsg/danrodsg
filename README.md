@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 <br><br>
 </div>
 
@@ -21,15 +21,17 @@
 
 
 ##  Olá! Sou o Daniel Rodrigues!🙋🏻‍♂️
- - Curso Engenharia de Software, com foco no desenvolvimento back-end e na criação de soluções robustas, escaláveis e de alta performance utilizando Go
+ - Curso Engenharia de Software, com foco no desenvolvimento back-end e na criação de soluções robustas, escaláveis e de alta performance utilizando Go.
   
 <h2 align="left">Sobre mim</h2>
 
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE5MzRlazk4MDV5eTdlNjV4ZnJocDVwcmNkdWtiNWpsd3hlejdzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"  />
 
 ###
 
-
-<p align="left">📚- Cursando Engenharia de Software<br>💻- Desenvolvedor Back-end<br>☕- Atualmente estudando Golang<br>🎮- Tenho como hobbies estudar programação, jogar e assistir séries
+<p align="left">📚- Cursando Engenharia de Software<br>💻- Desenvolvedor Back-end<br>☕- Atualmente estudando Golang<br>🎮- Tenho como hobbies estudar programação, jogar e assistir séries </p>
 
 ###
 
