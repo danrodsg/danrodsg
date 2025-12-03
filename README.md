@@ -21,7 +21,7 @@
 
 
 ##  Olá! Sou o Daniel Rodrigues!🙋🏻‍♂️
- - Sou estudante de Engenharia de Software na UniRitter e adoro transformar ideias em soluções que realmente facilitem o dia a dia das pessoas. Estou sempre em busca de aprender mais, melhorar minhas habilidades em programação e acompanhar tudo o que há de novo no mundo da tecnologia. Acredito que cada projeto é uma chance de evoluir e fazer a diferença de forma criativa e inovadora.
+ - Cursando Engenharia de Software, focado no desenvolvimento back-end e na criação de soluções robustas e escaláveis de alta performance utilizando Go.
   
 <h2 align="left">Sobre mim</h2>
 
