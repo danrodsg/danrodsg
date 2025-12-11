@@ -21,7 +21,7 @@
 
 
 ##  Olá! Sou o Daniel Rodrigues!🙋🏻‍♂️
- - Curso Engenharia de Software, com foco no desenvolvimento back-end e na criação de soluções robustas, escaláveis e de alta performance utilizando Go.
+ - Curso Engenharia de Software, com foco em Go. Possuo experiência prática em todo o ciclo de vida do desenvolvimento, incluindo construção de APIs REST, manipulação de dados e design de arquitetura de serviços escaláveis. Busco atuar em projetos de engenharia de software que envolvam automação e pipelines de dados, contribuindo ativamente para soluções de alto desempenho.
   
 <h2 align="left">Sobre mim</h2>
 
