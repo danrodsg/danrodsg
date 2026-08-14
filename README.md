@@ -21,7 +21,7 @@
 
 
 ##  Olá! Sou o Daniel Rodrigues!🙋🏻‍♂️
- - Curso Engenharia de Software, com foco em Engenharia de Dados e construção de soluções orientadas por dados. Atualmente direciono meus estudos e projetos para análise, tratamento e engenharia de dados, aplicando conceitos de SQL, modelagem de dados, versionamento com Git e boas práticas de qualidade e governança. Busco desenvolver soluções que transformem dados brutos em informações estratégicas para tomada de decisão.
+ - Cursando Engenharia de Software e atuando como Analista de TI, construo minha trajetória profissional na interseção entre Business Intelligence, análise de dados, sistemas corporativos e automação de processos. Busco aplicar a tecnologia na organização de informações, melhoria de rotinas e apoio à tomada de decisão, com atenção à qualidade, governança e segurança em ambientes corporativos.
   
 <h2 align="left">Sobre mim</h2>
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">📚- Cursando Engenharia de Software<br>💻- Analista de Dados<br>☕- Atualmente estudando Engenharia de Dados<br>🎮- Tenho como hobbies estudar programação, jogar e assistir séries </p>
+<p align="left">📚- Cursando Engenharia de Software<br>💻- Analista de Dados<br>☕- Atualmente estudando Python/SQL <br>🎮- Tenho como hobbies estudar programação, jogar e assistir séries </p>
 
 ###
 
