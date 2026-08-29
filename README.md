@@ -57,18 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-
-
-
-<h2 align="left">Estatísticas</h2>
-
-
 ###
 
-<div align="left">
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danrodsg&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
 
 
 ###
