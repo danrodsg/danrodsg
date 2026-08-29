@@ -21,7 +21,7 @@
 
 
 ##  Olá! Sou o Daniel Rodrigues!🙋🏻‍♂️
- - Cursando Engenharia de Software e atuando como Analista de TI, construo minha trajetória profissional na interseção entre Business Intelligence, análise de dados, sistemas corporativos e automação de processos. Busco aplicar a tecnologia na organização de informações, melhoria de rotinas e apoio à tomada de decisão, com atenção à qualidade, governança e segurança em ambientes corporativos.
+ - Cursando Engenharia de Software e atuando como Analista de Suporte PDV/ERP, construo minha trajetória profissional na interseção entre Business Intelligence, análise de dados, sistemas corporativos e automação de processos. Busco aplicar a tecnologia na organização de informações, melhoria de rotinas e apoio à tomada de decisão, com atenção à qualidade, governança e segurança em ambientes corporativos.
   
 <h2 align="left">Sobre mim</h2>
 
